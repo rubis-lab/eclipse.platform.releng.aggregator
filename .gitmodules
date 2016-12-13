@@ -16,7 +16,7 @@
   url = git://github.com/eclipse/eclipse.jdt.ui
 [submodule "eclipse.pde.build"]
   path = eclipse.pde.build
-  url = git://github.com/eclipse/eclipse.pde.build
+  url = git://git.eclipse.org/gitroot/gerrit/pde/eclipse.pde.build.git
 [submodule "eclipse.pde.ui"]
   path = eclipse.pde.ui
   url = git://github.com/eclipse/eclipse.pde.ui
@@ -70,4 +70,4 @@
   url = git://github.com/eclipse/rt.equinox.p2
 [submodule "eclipse.platform.ui.tools"]
   path = eclipse.platform.ui.tools
-  url = git://github.com/eclipse/eclipse.platform.ui.tools
+  url = git://git.eclipse.org/gitroot/platform/eclipse.platform.ui.tools.git
