@@ -1,3 +1,10 @@
+Forked submodule list
+-----------
+
+[eclipse.platform.ui](https://github.com/rubis-lab/eclipse.platform.ui)
+
+--------------
+
 eclipse.platform.releng.aggregator
 ==================================
 
@@ -17,3 +24,4 @@ License
 [Eclipse Public License (EPL) v1.0][2]
 
 [2]: http://wiki.eclipse.org/EPL
+
