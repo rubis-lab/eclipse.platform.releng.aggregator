@@ -49,13 +49,13 @@
   url = git://github.com/eclipse/eclipse.platform.team
 [submodule "eclipse.platform.text"]
   path = eclipse.platform.text
-  url = git://github.com/eclipse/eclipse.platform.text
+  url = https://github.com/rubis-lab/eclipse.platform.text.git
 [submodule "eclipse.platform.ua"]
   path = eclipse.platform.ua
   url = git://github.com/eclipse/eclipse.platform.ua
 [submodule "eclipse.platform.ui"]
   path = eclipse.platform.ui
-  url = git://github.com/rubis-lab/eclipse.platform.ui.git
+  url = https://github.com/rubis-lab/eclipse.platform.ui.git
 [submodule "rt.equinox.binaries"]
   path = rt.equinox.binaries
   url = git://github.com/eclipse/rt.equinox.binaries.git
