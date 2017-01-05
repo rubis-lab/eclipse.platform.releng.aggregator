@@ -28,7 +28,7 @@
   url = git://github.com/eclipse/eclipse.platform.common
 [submodule "eclipse.platform.debug"]
   path = eclipse.platform.debug
-  url = git://github.com/eclipse/eclipse.platform.debug
+  url = https://github.com/rubis-lab/eclipse.platform.debug.git
 [submodule "eclipse.platform.releng"]
   path = eclipse.platform.releng
   url = git://github.com/eclipse/eclipse.platform.releng.git
