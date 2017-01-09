@@ -3,8 +3,10 @@ Forked submodule list
 
 [eclipse.platform.ui](https://github.com/rubis-lab/eclipse.platform.ui)
 - branch: gykim, wjjang
+
 [eclipse.platform.debug](https://github.com/rubis-lab/eclipse.platform.debug)
 - branch: wjjang
+
 [eclipse.platform.text](https://github.com/rubis-lab/eclipse.platform.text)
 - branch: wjjang
 
