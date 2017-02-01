@@ -2,7 +2,7 @@ Forked submodule list
 -----------
 
 [eclipse.platform.ui](https://github.com/rubis-lab/eclipse.platform.ui)
-- branch: gykim, wjjang
+- branch: wjjang
 
 [eclipse.platform.debug](https://github.com/rubis-lab/eclipse.platform.debug)
 - branch: wjjang
@@ -11,8 +11,58 @@ Forked submodule list
 - branch: wjjang
 
 
+Installation Details
+=====================
+Install Eclipse SDK or build this
 
---------------
+Install plug-ins
+----------------------
+Help - Install New Packages...
+
+ - GMF-RUNTIME SDK 1.10 (by checking GMP GMF-RUNTIME SDK 1.6.1RC4 S201209131052)
+  - http://download.eclipse.org/modeling/gmp/updates/milestones/
+
+ - Graphiti (check all)
+  - http://download.eclipse.org/graphiti/updates/milestones
+
+
+Modify plug-ins
+--------------------
+- Perspective
+  - org.eclipse.platform/plugin_customization.ini
+  -     org.eclipse.ui/defaultPerspectiveId=org.eclipse.hyundai.perspective.HyundaiPerspective
+
+- Menu
+  - org.eclipse.ui.ide
+  -  org.eclipse.ui.navigator.resources
+
+- Graphiti
+  - org.eclipse.graphiti.ui
+
+- ActionSets
+  - org.eclipse.ui.editors
+
+- Search (You may delete this, but it can cause problem of plugin dependency in future)
+  - org.eclipse.search
+
+- Externaltools (You may delete this, but it can cause problem of plugin dependency in future)
+  - org.eclipse.ui.externaltools
+
+
+Delete plug-ins
+--------------------
+
+- Welcome
+  - org.eclipse.ui.intro.quicklinks
+  - org.eclipse.ui.intro.universal
+
+
+Furthermore
+--------------------------
+
+- Change Splash art
+- Change exe file name and icon
+
 
 eclipse.platform.releng.aggregator
 ==================================
