@@ -30,7 +30,7 @@ Modify plug-ins
 --------------------
 - Perspective
   - org.eclipse.platform/plugin_customization.ini
-  -     org.eclipse.ui/defaultPerspectiveId=org.eclipse.hyundai.perspective.HyundaiPerspective
+```   org.eclipse.ui/defaultPerspectiveId=org.eclipse.hyundai.perspective.HyundaiPerspective ```
 
 - Menu
   - org.eclipse.ui.ide
