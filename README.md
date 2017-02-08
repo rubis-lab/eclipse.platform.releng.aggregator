@@ -1,5 +1,7 @@
 Forked submodule list
 -----------
+[eclipse.platform](https://github.com/rubis-lab/eclipse.platform)
+- branch: wjjang
 
 [eclipse.platform.ui](https://github.com/rubis-lab/eclipse.platform.ui)
 - branch: wjjang
