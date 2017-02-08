@@ -22,7 +22,7 @@
   url = git://github.com/eclipse/eclipse.pde.ui
 [submodule "eclipse.platform"]
   path = eclipse.platform
-  url = git://github.com/eclipse/eclipse.platform
+  url = https://github.com/rubis-lab/eclipse.platform
 [submodule "eclipse.platform.common"]
   path = eclipse.platform.common
   url = git://github.com/eclipse/eclipse.platform.common
