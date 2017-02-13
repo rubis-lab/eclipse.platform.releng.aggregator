@@ -24,7 +24,7 @@ Help - Install New Packages...
  - GMF-RUNTIME SDK 1.10 (by checking GMP GMF-RUNTIME SDK 1.6.1RC4 S201209131052)
   - http://download.eclipse.org/modeling/gmp/updates/milestones/
 
- - Graphiti (check all)
+ - Graphiti (check Graphiti (Incubation))
   - http://download.eclipse.org/graphiti/updates/milestones
 
 
