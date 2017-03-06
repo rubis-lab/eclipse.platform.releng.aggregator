@@ -30,30 +30,11 @@ Help - Install New Packages...
 
 Modify plug-ins
 --------------------
-- Perspective
-  - org.eclipse.platform/plugin_customization.ini
-```   org.eclipse.ui/defaultPerspectiveId=org.eclipse.hyundai.perspective.HyundaiPerspective ```
-
-- Menu
-  - org.eclipse.ui.ide
-  -  org.eclipse.ui.navigator.resources
-
 - Graphiti
   - org.eclipse.graphiti.ui
 
-- ActionSets
-  - org.eclipse.ui.editors
-
-- Search (You may delete this, but it can cause problem of plugin dependency in future)
-  - org.eclipse.search
-
-- Externaltools (You may delete this, but it can cause problem of plugin dependency in future)
-  - org.eclipse.ui.externaltools
-
-
 Delete plug-ins
 --------------------
-
 - Welcome
   - org.eclipse.ui.intro.quicklinks
   - org.eclipse.ui.intro.universal
